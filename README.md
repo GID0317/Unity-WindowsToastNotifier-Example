@@ -61,12 +61,12 @@ Unity-WindowsToastNotifier  Is a Windows Toast Notifier implementation for Unity
   <img src="https://github.com/user-attachments/assets/c4c8a709-68a6-49eb-a616-5056b8ed1ba8" width="200"/>
   <img src="https://github.com/user-attachments/assets/68a51002-c7c2-4a38-a7eb-73adb0e55ae0" width="200"/>
   <img src="https://github.com/user-attachments/assets/f94e168d-b371-4f04-953b-4373c9fb5855" width="200"/>
-  <img src="https://github.com/user-attachments/assets/1de86980-fe91-4506-a0aa-dc0286581acb" width="200"/>
   <img src="https://github.com/user-attachments/assets/e1cd0334-e22a-4a03-ac1f-04aa4a3bc4a6" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1de86980-fe91-4506-a0aa-dc0286581acb" width="200"/>
 </div>  
 
 # This implementation is made possible by:  
-- [Unity-ToastSender](https://github.com/HikariXP/Unity-ToastSender)  
-- [toast-notification-examples](https://github.com/GitHub30/toast-notification-examples)  
-- PowerShell  
+- [Unity-ToastSender](https://github.com/HikariXP/Unity-ToastSender) By HikariXP
+- [toast-notification-examples](https://github.com/GitHub30/toast-notification-examples) By GitHub30
+- PowerShell By Microsoft 
 
