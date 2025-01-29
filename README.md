@@ -1,7 +1,7 @@
 # Unity-WindowsToastNotifier
-Unity-WindowsToastNotifier  Is a Windows Toast Notifier implementation for Unity non-UWP build. Implemented Windows PowerShell, this implementation is tested on the Mono Script backend build using Unity 6 and not tested on the IL2CPP build. This implementation is basic and for experimental purposes only to demonstrate that it is possible to use native Windows 11/10 system features from Unity. Since this is an open-source project, every contribution is welcomed!
-## Project Overview  
+Unity-WindowsToastNotifier  Is a Windows Toast Notifier implementation for Unity non-UWP build. Implemented Windows PowerShell, this implementation is tested on the Mono Script backend build using Unity 6 and not tested on the IL2CPP build. This implementation is basic and for experimental purposes only to demonstrate that it is possible to use native Windows 11/10 system features from Unity. Since this is an open-source project, so every contribution is welcomed!
 
+## Project Overview  
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3c2c7e70-c080-424d-89d4-8db2b49197cb" width="400"/>
   <img src="https://github.com/user-attachments/assets/5765764f-7b93-4cc5-a513-5b04bcc1ccb4" width="400"/>
@@ -62,6 +62,7 @@ Unity-WindowsToastNotifier  Is a Windows Toast Notifier implementation for Unity
   <img src="https://github.com/user-attachments/assets/68a51002-c7c2-4a38-a7eb-73adb0e55ae0" width="200"/>
   <img src="https://github.com/user-attachments/assets/f94e168d-b371-4f04-953b-4373c9fb5855" width="200"/>
   <img src="https://github.com/user-attachments/assets/1de86980-fe91-4506-a0aa-dc0286581acb" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e1cd0334-e22a-4a03-ac1f-04aa4a3bc4a6" width="200"/>
 </div>  
 
 # This implementation is made possible by:  
